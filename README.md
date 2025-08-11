@@ -9,3 +9,7 @@ CineSearch is a basic application that allows users to search for movies by titl
 - View basic movie details (title, year, genre, etc.)
 - Simple and beginner-friendly setup
 
+## 🛠️ Technologies Used
+- **Backend:** MySQL / SQLite (depending on setup)
+- **Frontend:** Basic HTML/CSS or CLI (optional)
+- **Language:** Java / Python / Node.js *(adjust based on your project)*
