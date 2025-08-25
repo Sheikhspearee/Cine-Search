@@ -2,9 +2,10 @@ import './App.css'
 import MovieCard from './components/MovieCard'
 
 function App() {
+  const movieNumber = 1;
   return (
-    <>
-      <MovieCard movie={{title: 'RVD', release_date: '2019'}}/>
+    <>  
+      
     </>
   )
 }
