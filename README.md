@@ -1,4 +1,4 @@
-# 🎬 Cine Search
+# 🎬 Cine Search (Completed)
 
 Cine Search is a React application I built to **learn React** by creating something fun and practical.  
 The project explores real-world app features like **API integration**, **state management**, **routing**, and **local storage** while keeping the UI simple and responsive.  
@@ -107,3 +107,4 @@ Most importantly, it gave me confidence to start building more complex React pro
 ## 🙌 Acknowledgements
 
 - **TMDB** for movie data and images
+
